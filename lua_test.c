@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <lauxlib.h>
 #include <lua.h>
 #include <lualib.h>
